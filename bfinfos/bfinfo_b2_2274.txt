@@ -1,0 +1,8 @@
+Candidates: 411103
+Hidden cells: 31
+Density: 22.74%
+
+Elapsed: 64199.367764 s
+Nodes explored: 27218447132
+Confidence: 0.99999999852449
+Date: 2025-10-02 15:08:39
