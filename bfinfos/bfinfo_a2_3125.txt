@@ -1,0 +1,12 @@
+Iterations: 1295647
+Cache builds: 222610
+Cache hits: 405357
+
+Candidates: 4368
+Hidden cells: 16
+Density: 31.25%
+
+Elapsed: 0.886787 s
+Nodes explored: 658438
+Confidence: 0.99999999999996
+Date: 2025-10-03 07:02:59
